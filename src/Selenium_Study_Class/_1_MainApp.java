@@ -5,6 +5,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 public class _1_MainApp {
 
+
     //https://www.selenium.dev/downloads/
     // https://chromedriver.chromium.org/
     // Selenium Web Driver file ını library e aktar
